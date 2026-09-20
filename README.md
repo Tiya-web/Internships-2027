@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Systems Engineering - Summer Intern 2027 - Onsite | IA-CEDAR RAPIDS | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873971?s=gh-internships-2027) |
+| **RTX** | Systems Engineering - Summer Intern 2027 - Onsite | IA-CEDAR RAPIDS | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873971?s=gh-internships-2027) |
 | **Adobe** | 2027 Intern - Software Engineer | San Jose | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171666?s=gh-internships-2027) |
 | **RTX** | Software Engineering Intern (Summer 2027) | VA-STERLING | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875780?s=gh-internships-2027) |
 | **Visa** | 2027 Sophomore Internship Program - Software Engineer Intern, Bellevue | Bellevue, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF088594W?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Manufacturing Engineering Intern (Summer 2027) | AZ-TUCSON | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872988?s=gh-internships-2027) |
+| **RTX** | Manufacturing Engineering Intern (Summer 2027) | AZ-TUCSON | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872988?s=gh-internships-2027) |
 | **Merck & Co.** | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern | USA - Pennsylvania - West Point | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R416751?s=gh-internships-2027) |
 | **Merck & Co.** | 2027 Future Talent Program - Manufacturing Intern | USA - North Carolina - Durham | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R416739?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Facilities Engineering Intern | United States-Utah-Clearfield | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251663?s=gh-internships-2027) |
@@ -620,13 +620,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Commercial Engines Business Intern (Summer 2027) | CT-EAST HARTFORD-OBG | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873413?s=gh-internships-2027) |
-| **RTX** | Software Project Engineer Intern (Summer 2027) Onsite | CT-WINDSOR LOCKS-B1 | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872660?s=gh-internships-2027) |
-| **Johnson & Johnson** | Supplier Development Engineer Co-Op | Danvers, Massachusetts, United... | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098406?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Fort Worth | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050160?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Hutto | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Specific Stop Loss Claim Auditor Intern | Remote - USA | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002937?s=gh-internships-2027) |
+| **RTX** | Commercial Engines Business Intern (Summer 2027) | CT-EAST HARTFORD-OBG | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873413?s=gh-internships-2027) |
+| **RTX** | Software Project Engineer Intern (Summer 2027) Onsite | CT-WINDSOR LOCKS-B1 | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872660?s=gh-internships-2027) |
+| **Johnson & Johnson** | Supplier Development Engineer Co-Op | Danvers, Massachusetts, United... | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098406?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Fort Worth | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050160?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Hutto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Specific Stop Loss Claim Auditor Intern | Remote - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002937?s=gh-internships-2027) |
 | **Nominal** | Mission Dev Engineer - New Grad (Summer 2027) | New York, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpgt_L0hB_S2rbd-acejJJS?s=gh-internships-2027) |
 | **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDq1JPt4gojJg-2VrQLT89PU?s=gh-internships-2027) |
 | **Salesforce** | Summer 2027 Intern - Recruiting Data Intelligence | California - San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360432?s=gh-internships-2027) |
