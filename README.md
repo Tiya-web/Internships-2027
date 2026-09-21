@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Advanced Process Analytics Co-op | Titusville, New Jersey, United... | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098443?s=gh-internships-2027) |
+| **Johnson & Johnson** | Advanced Process Analytics Co-op | Titusville, New Jersey, United... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098443?s=gh-internships-2027) |
 | **AutoZone** | AutoZone 2027 Summer Internship – Data Science | Memphis, TN, United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-155461?s=gh-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Product Data Science | San Francisco, California,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8199365?s=gh-internships-2027) |
 | **Cigna** | Data Scientist Intern- Master's Program (Hybrid: NJ, TX, or MO) | Morris Plains, NJ | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010876?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Global Supply Chain Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868794?s=gh-internships-2027) |
+| **RTX** | Global Supply Chain Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868794?s=gh-internships-2027) |
 | **AutoZone** | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-155429?s=gh-internships-2027) |
 | **RTX** | Intern: Columbus Engine Center Supply Chain (2027) | GA-MIDLAND-MPC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874816?s=gh-internships-2027) |
 | **Live Nation** | C3 Presents - Culture & Office Operations Intern | Austin, TX, USA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93217?s=gh-internships-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baker Hughes** | Intern - Engineering & Technology - 2026 Opportunities | AU-Queensland-Varsity Lakes | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169260?s=gh-internships-2027) |
-| **Fidelity Investments** | Intern, Investor Center - Grand Rapids, MI | Grand Rapids, MI | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135621?s=gh-internships-2027) |
-| **Fidelity Investments** | Intern, Investor Center - Novi, MI | 44244 WEST 12 MILE ROAD, SUITE... | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135736?s=gh-internships-2027) |
-| **Allison Transmission** | Career Fair - Marian University - STEHM Career & Internship Fair | Indianapolis, IN | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008237?s=gh-internships-2027) |
-| **Disney** | WDI Construction Management Intern, Spring 2027 | Anaheim, CA, USA | 57m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10157976?s=gh-internships-2027) |
+| **Baker Hughes** | Intern - Engineering & Technology - 2026 Opportunities | AU-Queensland-Varsity Lakes | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169260?s=gh-internships-2027) |
+| **Fidelity Investments** | Intern, Investor Center - Grand Rapids, MI | Grand Rapids, MI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135621?s=gh-internships-2027) |
+| **Fidelity Investments** | Intern, Investor Center - Novi, MI | 44244 WEST 12 MILE ROAD, SUITE... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135736?s=gh-internships-2027) |
+| **Allison Transmission** | Career Fair - Marian University - STEHM Career & Internship Fair | Indianapolis, IN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008237?s=gh-internships-2027) |
+| **Disney** | WDI Construction Management Intern, Spring 2027 | Anaheim, CA, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10157976?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Digital Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251150?s=gh-internships-2027) |
 | **Federal Reserve System** | 2027 Summer Intern - Regional Branch Intern | Memphis, TN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033466?s=gh-internships-2027) |
 | **Federal Reserve System** | 2027 Summer Internship - Business Technology | St. Louis, MO | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033461?s=gh-internships-2027) |
