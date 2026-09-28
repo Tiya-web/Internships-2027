@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-internships-2027) |
-| **GlobalFoundries** | Reliability Test Engineering Intern (Summer 2027) | USA - New York - Malta | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604361?s=gh-internships-2027) |
-| **RTX** | Platform Systems Engineering Co-Op (Spring/Summer 2027) - Onsite | IA-CEDAR RAPIDS | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870366?s=gh-internships-2027) |
+| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-internships-2027) |
+| **GlobalFoundries** | Reliability Test Engineering Intern (Summer 2027) | USA - New York - Malta | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604361?s=gh-internships-2027) |
+| **RTX** | Platform Systems Engineering Co-Op (Spring/Summer 2027) - Onsite | IA-CEDAR RAPIDS | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870366?s=gh-internships-2027) |
 | **D. E. Shaw** | Software Developer Intern (New York) – Summer 2027 | New York | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027) |
 | **D. E. Shaw** | Software Developer, Ph.D. Intern (New York) – Summer 2027 | New York | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/deshaw-5893?s=gh-internships-2027) |
 | **D. E. Shaw** | Systems Engineering Intern (New York) - Summer 2027 | New York | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TransUnion** | Consulting Analytics - Argus Advisory Internship - Summer 2026 | White Plains New York | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-transunion-transunion-19042605?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 56m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-internships-2027) |
+| **TransUnion** | Consulting Analytics - Argus Advisory Internship - Summer 2026 | White Plains New York | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-transunion-transunion-19042605?s=gh-internships-2027) |
+| **FOX** | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-internships-2027) |
 | **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-internships-2027) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8233953?s=gh-internships-2027) |
 | **Red Ventures** | 2027 Launch Program: Data Science Intern | Charlotte, NC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-redventures-8233284?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GlobalFoundries** | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604362?s=gh-internships-2027) |
+| **GlobalFoundries** | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604362?s=gh-internships-2027) |
 | **Antares** | Supply Chain Engineering Intern - Summer 2027 | Los Angeles | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-f98379e4-ca61-4d0e-9cf8-c9d23e0f0e6a?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Mechanical Engineering Intern | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23436?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Engineering Intern | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23283?s=gh-internships-2027) |
@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern - Product Design - Bothell, WA - Summer 2027 | Bothell, Washington, United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-582008?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033985?s=gh-internships-2027) |
+| **Philips** | Intern - Product Design - Bothell, WA - Summer 2027 | Bothell, Washington, United States | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-582008?s=gh-internships-2027) |
+| **FOX** | Summer 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033985?s=gh-internships-2027) |
 | **Field AI** | Robotics Research Internship, Humanoid Manipulation (Summer 2027)   PhD Internship | Boston, MA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-ada8184d-153b-4172-8f55-2b0ae74c6820?s=gh-internships-2027) |
 | **Field AI** | Robotics Research Internship, Humanoid Manipulation (Spring 2027)   PhD Internship | Boston, MA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-40a22216-c73b-4ec1-bfc1-dc0e1938eaba?s=gh-internships-2027) |
 | **RTX** | Mechanical Design Engineering Co-op (Summer/Fall 2027) | IL-ROCKFORD-P6 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873226?s=gh-internships-2027) |
@@ -620,16 +620,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Mosaic Company** | Informational Technology Co-Op/Intern - Spring 2027 | Tampa, FL | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-64413?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | 06361 - Tennessee CVS Pharmacy,... | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058305?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | IN - Kentland | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058306?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | PA - Swarthmore | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058303?s=gh-internships-2027) |
-| **Philips** | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-585564?s=gh-internships-2027) |
-| **GlobalFoundries** | Process Integration Intern, ULP CMOS Technology Development (Summer 2027) | USA - New York - Malta | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604358?s=gh-internships-2027) |
-| **CrowdStrike** | Global Sales Programs Intern (Summer 2027) | USA - Austin, TX | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30217?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX Corporation Internship Program - Business and Legal Affairs | Los Angeles, California, USA | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50034003?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX Corporation Internship Program - Los Angeles, CA | Los Angeles, California, USA | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50034004?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX Corporation Internship Program - Studio ID - Los Angeles, CA | Los Angeles, California, USA | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033972?s=gh-internships-2027) |
+| **The Mosaic Company** | Informational Technology Co-Op/Intern - Spring 2027 | Tampa, FL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-64413?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | 06361 - Tennessee CVS Pharmacy,... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058305?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | IN - Kentland | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058306?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | PA - Swarthmore | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058303?s=gh-internships-2027) |
+| **Philips** | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-585564?s=gh-internships-2027) |
+| **GlobalFoundries** | Process Integration Intern, ULP CMOS Technology Development (Summer 2027) | USA - New York - Malta | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604358?s=gh-internships-2027) |
+| **CrowdStrike** | Global Sales Programs Intern (Summer 2027) | USA - Austin, TX | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30217?s=gh-internships-2027) |
+| **FOX** | Summer 2027 FOX Corporation Internship Program - Business and Legal Affairs | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50034003?s=gh-internships-2027) |
+| **FOX** | Summer 2027 FOX Corporation Internship Program - Los Angeles, CA | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50034004?s=gh-internships-2027) |
+| **FOX** | Summer 2027 FOX Corporation Internship Program - Studio ID - Los Angeles, CA | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033972?s=gh-internships-2027) |
 | **Ameriprise Financial** | Actuarial Intern | Minneapolis, Minnesota | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3572?s=gh-internships-2027) |
 | **Stevens Capital Management** | Developer Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scm-721888?s=gh-internships-2027) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scm-721895?s=gh-internships-2027) |
