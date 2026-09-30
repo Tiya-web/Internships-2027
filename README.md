@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Embedded Software Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252790?s=gh-internships-2027) |
-| **Northrop Grumman** | 2027 Systems Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252497?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Embedded Software Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252790?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Systems Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252497?s=gh-internships-2027) |
 | **RTX** | Software Engineering Intern (Summer 2027) | FL-LARGO | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874951?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Test Engineering Intern - VSFB CA | United... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253497?s=gh-internships-2027) |
 | **LabCorp** | Intern – Network Infrastructure & Automation Engineering | Durham NC | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632795?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL | United States-Illinois-Rolling... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252778?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL | United States-Illinois-Rolling... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252778?s=gh-internships-2027) |
 | **Leidos** | Electrical Hardware Design Engineering Intern | Huntsville, AL | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193413?s=gh-internships-2027) |
 | **Leidos** | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192848?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Mechanical Engineering Intern - Clearfield UT | United States-Utah-Clearfield | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253458?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Hardware Electronics Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252779?s=gh-internships-2027) |
-| **Northrop Grumman** | 2027 Software Digital Intern - Rolling Meadows IL | United States-Illinois-Rolling... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252812?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Hardware Electronics Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252779?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Software Digital Intern - Rolling Meadows IL | United States-Illinois-Rolling... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252812?s=gh-internships-2027) |
 | **RTX** | Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras | MX-BCN-MEXICALI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872645?s=gh-internships-2027) |
 | **Leidos** | Technical Intern | 6314 Remote/Teleworker US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192448?s=gh-internships-2027) |
 | **TD Synnex** | Summer 2027 Internship Program   Technical, Applied Innovation Track: • Information Technology •... | Greenville, SC | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56571?s=gh-internships-2027) |
@@ -664,10 +664,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Penetration Testing INTERN | Redmond, Washington, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055969?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Vertex Spring Co-Op 2027, Preformulation | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31003?s=gh-internships-2027) |
 | **Bosch Group** | Material Planning Intern - Summer 2027 | Lincolnshire, IL | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152524633?s=gh-internships-2027) |
-| **Epic Games** | Product Management Intern | Cary,North Carolina,United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6161289004?s=gh-internships-2027) |
+| **Epic Games** | Product Management Intern | Cary,North Carolina,United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6161289004?s=gh-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Planner Machine Learning | San Francisco, California | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8234876?s=gh-internships-2027) |
 | **Bosch Group** | 2027 Spring Cost Analyst / Finance Support Co-Op | Charleston, SC | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152463644?s=gh-internships-2027) |
-| **Flagship Pioneering** | Flagship Labs 103: Proteomics Co-Op | Cambridge, MA USA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8851894002?s=gh-internships-2027) |
+| **Flagship Pioneering** | Flagship Labs 103: Proteomics Co-Op | Cambridge, MA USA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8851894002?s=gh-internships-2027) |
 | **Flagship Pioneering** | Metaphore: Antibody Discovery and Molecular Biology Co-Op | Somerville, MA USA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8851766002?s=gh-internships-2027) |
 | **Invesco** | Early Career Intern - Distribution Technology | Atlanta, Georgia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15619?s=gh-internships-2027) |
 | **Invesco** | Early Career Intern - Digital Asset Product | New York, New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15476?s=gh-internships-2027) |
