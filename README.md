@@ -289,7 +289,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Northrop Grumman** | 2027 Structural Engineering Intern Dulles Va | United States-Virginia-Dulles | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253912?s=gh-internships-2027) |
 | **Muon Space** | Electrical Engineering Intern (Summer 2027) | San Jose | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5255112007?s=gh-internships-2027) |
-| **Microsoft** | Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond | Redmond, Washington, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042628?s=gh-internships-2027) |
+| **Microsoft** | Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond | Redmond, Washington, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042628?s=gh-internships-2027) |
 | **Impulse Space** | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-590465?s=gh-internships-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA, USA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8248060?s=gh-internships-2027) |
 | **Parsons** | Bridge Engineering Intern - Summer 2027 | IN, Indianapolis, R184490 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R184490?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Talent & Growth Planning & Operations Intern, Spring 2027 | Burbank, CA, USA | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10159843?s=gh-internships-2027) |
+| **Disney** | Talent & Growth Planning & Operations Intern, Spring 2027 | Burbank, CA, USA | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10159843?s=gh-internships-2027) |
 | **ABB** | Corporate Finance Intern- Summer 2027 | USA, TN, Memphis | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048204?s=gh-internships-2027) |
 | **RTX** | Global Supply Chain Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868794?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Global Supply Chain Specialist internship - VIRTUAL/REMOTE | United States-Virginia-Unknown City | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253960?s=gh-internships-2027) |
@@ -620,13 +620,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Summer MedTech VSM Intern | Raritan, New Jersey, United... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102360?s=gh-internships-2027) |
-| **Highmark Health** | Pharmacy Intern - Wexford | Wexford PA, 15090, 12311 Perry... | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287094?s=gh-internships-2027) |
-| **Highmark Health** | Pharmacy Intern | Pittsburgh PA, 15212 | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286699?s=gh-internships-2027) |
-| **Highmark Health** | Pharmacy Intern | Pittsburgh PA, 15212 | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288098?s=gh-internships-2027) |
+| **Johnson & Johnson** | Summer MedTech VSM Intern | Raritan, New Jersey, United... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102360?s=gh-internships-2027) |
+| **Highmark Health** | Pharmacy Intern - Wexford | Wexford PA, 15090, 12311 Perry... | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287094?s=gh-internships-2027) |
+| **Highmark Health** | Pharmacy Intern | Pittsburgh PA, 15212 | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286699?s=gh-internships-2027) |
+| **Highmark Health** | Pharmacy Intern | Pittsburgh PA, 15212 | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288098?s=gh-internships-2027) |
 | **ABB** | Sales Operations and Programs Intern | Remote, Florida, United States... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048995?s=gh-internships-2027) |
 | **GlobalFoundries** | End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027) | USA - Texas - Austin | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604224?s=gh-internships-2027) |
-| **JLL** | Capital Markets Summer 2027 Internship - Minneapolis, MN | Minneapolis, MN | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530234?s=gh-internships-2027) |
+| **JLL** | Capital Markets Summer 2027 Internship - Minneapolis, MN | Minneapolis, MN | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530234?s=gh-internships-2027) |
 | **Leidos** | Flight Test and Integration Summer Intern | Huntsville, AL | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193562?s=gh-internships-2027) |
 | **Leidos** | Mechanical Analysis Intern | Huntsville, AL | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193608?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | CA - Irvine | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063388?s=gh-internships-2027) |
@@ -648,7 +648,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Vertex Spring Co-Op 2027, Biologics MSAT | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30504?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, SOX PMO | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31011?s=gh-internships-2027) |
 | **Sanofi** | 2027 Summer Internship Opportunities, Morristown, NJ | Morristown, New Jersey | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-44498172160?s=gh-internships-2027) |
-| **Walleye Capital** | Special Projects Developer Intern (Summer 2027) | New York, New York | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-walleyecapital-external-students-4716166006?s=gh-internships-2027) |
+| **Walleye Capital** | Special Projects Developer Intern (Summer 2027) | New York, New York | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-walleyecapital-external-students-4716166006?s=gh-internships-2027) |
 | **Sanofi** | 2027 Summer Internship Opportunities, Framingham, MA | Framingham, Massachusetts | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-44498172224?s=gh-internships-2027) |
 | **Sanofi** | 2027 Summer Internship Opportunities Cambridge MA | Cambridge, Massachusetts | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-44484657408?s=gh-internships-2027) |
 | **Parsons** | CNO Development Intern/Co-op | MD (Field Location), R184352 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R184352?s=gh-internships-2027) |
