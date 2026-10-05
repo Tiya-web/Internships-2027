@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | Electric Hardware Engineering Intern | Chippewa Falls, Wisconsin,... | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213414?s=gh-internships-2027) |
+| **HPE (University)** | Electric Hardware Engineering Intern | Chippewa Falls, Wisconsin,... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213414?s=gh-internships-2027) |
 | **Hitachi** | Applications Engineering Internship/Co-op | Holland, Michigan, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144978?s=gh-internships-2027) |
 | **Hitachi** | Controls Engineering Internship/Co-op | Auburn Hills, Michigan, United... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0143858?s=gh-internships-2027) |
 | **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144971?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | VLSI Design Verification Internship | Chippewa Falls, Wisconsin,... | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213400?s=gh-internships-2027) |
+| **HPE (University)** | VLSI Design Verification Internship | Chippewa Falls, Wisconsin,... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213400?s=gh-internships-2027) |
 | **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112528?s=gh-internships-2027) |
 | **Disney** | Product Design - Licensed Toys Intern, Spring 2027 | Glendale, CA, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160441?s=gh-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Embodied and Agentic AI - 2027 | CA Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025792?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Sustainability Strategy Intern, Spring 2027 | Kissimmee, FL, USA | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160468?s=gh-internships-2027) |
+| **Disney** | Sustainability Strategy Intern, Spring 2027 | Kissimmee, FL, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160468?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise Finance Strategy Undergraduate Finance Intern | Pittsburgh PA, 15222, FAP, 5th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286276?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise FP&A Undergraduate Finance Intern | Pittsburgh PA, 15222, FAP, 5th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286275?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise Procurement Undergraduate Supply Chain Intern | Pittsburgh PA, 15222, FAP, 5th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286290?s=gh-internships-2027) |
@@ -620,16 +620,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Store Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160399?s=gh-internships-2027) |
-| **Disney** | Walt Disney World Government Relations Intern, Spring 2027 | Lake Buena Vista, FL, USA | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160354?s=gh-internships-2027) |
-| **T. Rowe Price** | 2027 Sales & Client Engagement Internship Program | Baltimore, MD | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82674?s=gh-internships-2027) |
-| **HPE (University)** | Hardware Tools and Libraries Intern | Sunnyvale, California, United... | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214085?s=gh-internships-2027) |
-| **HPE (University)** | People Care HR AI Agent - Process Improvement Project Management Intern | Spring, Texas, United States of... | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1212389?s=gh-internships-2027) |
-| **CVS Health** | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT Hartford | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025480?s=gh-internships-2027) |
-| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | MS - Natchez | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065511?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Dallas | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065510?s=gh-internships-2027) |
-| **RTX** | Digital Technology Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867772?s=gh-internships-2027) |
-| **Trane Technologies** | Intern-Controls Technician -King of Prussia, PA | King Of Prussia, Pennsylvania | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-16956?s=gh-internships-2027) |
+| **Disney** | Store Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160399?s=gh-internships-2027) |
+| **Disney** | Walt Disney World Government Relations Intern, Spring 2027 | Lake Buena Vista, FL, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160354?s=gh-internships-2027) |
+| **T. Rowe Price** | 2027 Sales & Client Engagement Internship Program | Baltimore, MD | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82674?s=gh-internships-2027) |
+| **HPE (University)** | Hardware Tools and Libraries Intern | Sunnyvale, California, United... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214085?s=gh-internships-2027) |
+| **HPE (University)** | People Care HR AI Agent - Process Improvement Project Management Intern | Spring, Texas, United States of... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1212389?s=gh-internships-2027) |
+| **CVS Health** | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT Hartford | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025480?s=gh-internships-2027) |
+| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | MS - Natchez | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065511?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Dallas | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065510?s=gh-internships-2027) |
+| **RTX** | Digital Technology Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867772?s=gh-internships-2027) |
+| **Trane Technologies** | Intern-Controls Technician -King of Prussia, PA | King Of Prussia, Pennsylvania | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-16956?s=gh-internships-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA) | Mount Laurel, New Jersey | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510802?s=gh-internships-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, New Jersey | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510795?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise MBA Integrated Finance Graduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286281?s=gh-internships-2027) |
