@@ -1,18 +1,17 @@
 # Zapply Jobs — Internships 2027
 
-> Curated internship listings for students — software engineering, data science, hardware, AI, business, and more. Updated every 15 minutes. US-focused.
+> Curated internship listings for students — software engineering, data science, hardware, AI, business, and more. US-focused, updated continuously by an automated pipeline.
 
 ## What this repo provides
-- 3,000+ internship listings updated every 15 minutes
+- A README internship table kept current by the Zapply pipeline: role, company, location, posting date, and direct apply link
 - Summer, fall, spring, and co-op programs
-- Jobs from 500+ companies across 9 ATS platforms
-- Structured data: title, company, location, apply URL, domain tags
-- US-only internships
+- Part of the Zapply Jobs ecosystem (zapplyjobs)
 
-## How to use this data
-- Browse the README table for quick listings
-- Use `.github/data/current_jobs.json` for programmatic access
+## How to use
+- Browse `README.md` — it is the canonical listing and regenerates continuously as the pipeline refreshes
+- For search and filters, use the public boards: softwarejobs.dev (US tech, all levels) and zapply.jobs (US early-career)
 - Apply links go directly to company career pages
+- This repo is display-only: it intentionally contains no raw data files
 
 ## Related repos
 - New Grad Jobs: github.com/zapplyjobs/New-Grad-Jobs-2027
