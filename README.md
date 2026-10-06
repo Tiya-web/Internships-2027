@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Industrial Engineering Intern (Summer 2027) | AZ-TUCSON | 11m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879158?s=gh-internships-2027) |
+| **RTX** | Industrial Engineering Intern (Summer 2027) | AZ-TUCSON | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879158?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Manufacturing and Operations Engineering Intern - UTAH | United States Utah Corinne | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254330?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Mechanical Engineering Intern - Chandler AZ | United States-Arizona-Chandler | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254534?s=gh-internships-2027) |
 | **Allison Transmission** | Manufacturing Engineering Internship - Summer 2026 | Indianapolis, IN | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008288?s=gh-internships-2027) |
@@ -652,8 +652,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Pharmacy Intern | LA - Chalmette | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1066926?s=gh-internships-2027) |
 | **Anduril** | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5257693007?s=gh-internships-2027) |
 | **LLNL** | Space Science Institute Graduate Intern - Summer 2027 | Livermore, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015908146?s=gh-internships-2027) |
-| **LLNL** | Space Science Institute Undergraduate Intern - Summer 2027 | Livermore, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015908136?s=gh-internships-2027) |
-| **Anduril** | 2027 Reliability Engineer Intern | Costa Mesa, California, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5257682007?s=gh-internships-2027) |
+| **LLNL** | Space Science Institute Undergraduate Intern - Summer 2027 | Livermore, CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015908136?s=gh-internships-2027) |
+| **Anduril** | 2027 Reliability Engineer Intern | Costa Mesa, California, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5257682007?s=gh-internships-2027) |
 | **Kroger** | PHARMACY/PHARMCST-INTERN | Columbia, SC, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-237529?s=gh-internships-2027) |
 | **Albertsons** | Pharmacy Student Intern | Frisco, TX, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-776808?s=gh-internships-2027) |
 | **Albertsons** | Pharmacy Student Intern | Plano, TX, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-776814?s=gh-internships-2027) |
