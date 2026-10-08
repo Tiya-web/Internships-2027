@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Electrical/Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255010?s=gh-internships-2027) |
-| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8263774?s=gh-internships-2027) |
-| **IXL Learning** | Software Engineer, Intern | San Mateo, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-ixllearning-8862214002?s=gh-internships-2027) |
-| **Persona** | Software Engineer, Intern (Summer 2027) | San Francisco | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-persona-eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Electrical/Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255010?s=gh-internships-2027) |
+| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8263774?s=gh-internships-2027) |
+| **IXL Learning** | Software Engineer, Intern | San Mateo, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-ixllearning-8862214002?s=gh-internships-2027) |
+| **Persona** | Software Engineer, Intern (Summer 2027) | San Francisco | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-persona-eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
 | **Microsoft** | Software Engineering Internship Opportunities | United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059070?s=gh-internships-2027) |
 | **RTX** | Software Engineering Intern (Summer 2027) | MN-BURNSVILLE-WEST | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872977?s=gh-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Data Science INTERN | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041778?s=gh-internships-2027) |
+| **Microsoft** | Data Science INTERN | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041778?s=gh-internships-2027) |
 | **Dell Technologies** | Data Science Undergraduate Intern | TX, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-dell-technologies-299978?s=gh-internships-2027) |
 | **Leidos** | Business Systems AI Intern | 6314 Remote/Teleworker US | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027) |
 | **Nissan** | Pricing and Cross Car Line Analytics Intern - Franklin, TN - Summer 2027 | Franklin, Tennessee - United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214245?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-internships-2027) |
-| **Northrop Grumman** | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255003?s=gh-internships-2027) |
+| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255003?s=gh-internships-2027) |
 | **Aptiv** | Sales Intern | Troy, MI - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702905?s=gh-internships-2027) |
 | **Aptiv** | Sales Intern | Troy, MI - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702903?s=gh-internships-2027) |
 | **Aptiv** | Sales Intern | Troy, MI - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702904?s=gh-internships-2027) |
