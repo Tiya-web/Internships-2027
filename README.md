@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Electrical/Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255010?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Electrical/Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255010?s=gh-internships-2027) |
 | **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8263774?s=gh-internships-2027) |
 | **IXL Learning** | Software Engineer, Intern | San Mateo, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-ixllearning-8862214002?s=gh-internships-2027) |
 | **Persona** | Software Engineer, Intern (Summer 2027) | San Francisco | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-persona-eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
-| **Microsoft** | Software Engineering Internship Opportunities | United States | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059070?s=gh-internships-2027) |
+| **Microsoft** | Software Engineering Internship Opportunities | United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059070?s=gh-internships-2027) |
 | **RTX** | Software Engineering Intern (Summer 2027) | MN-BURNSVILLE-WEST | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872977?s=gh-internships-2027) |
 | **Nissan** | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214882?s=gh-internships-2027) |
 | **Bose** | Embedded Software Engineer Co-op  - Audio Tech | MA Framingham | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29278?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aptiv** | Mechanical Engineering Intern - Tooling | Warren, OH - USA | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704864?s=gh-internships-2027) |
+| **Aptiv** | Mechanical Engineering Intern - Tooling | Warren, OH - USA | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704864?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Field Engineering Intern | Houston, TX | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154362614?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Field Engineering Intern | Baton Rouge, LA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154361690?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Field Engineering Intern | Victoria, TX | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154362059?s=gh-internships-2027) |
@@ -398,9 +398,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aptiv** | Multimedia Design Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000705106?s=gh-internships-2027) |
-| **PDT Partners** | Summer 2027 Quantitative Research Intern | New York, NY | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pdtpartners-8263031?s=gh-internships-2027) |
-| **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287019?s=gh-internships-2027) |
+| **Aptiv** | Multimedia Design Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000705106?s=gh-internships-2027) |
+| **PDT Partners** | Summer 2027 Quantitative Research Intern | New York, NY | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pdtpartners-8263031?s=gh-internships-2027) |
+| **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287019?s=gh-internships-2027) |
 | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | Redmond, Washington, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200053343?s=gh-internships-2027) |
 | **Copart** | UI/UX Designer Intern - IT | Dallas, TX - Headquarters | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR111758?s=gh-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Efficient Deep Learning - 2027 | CA Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025478?s=gh-internships-2027) |
@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aptiv** | Social Media Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704921?s=gh-internships-2027) |
-| **Aptiv** | Finance Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704334?s=gh-internships-2027) |
+| **Aptiv** | Social Media Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704921?s=gh-internships-2027) |
+| **Aptiv** | Finance Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704334?s=gh-internships-2027) |
 | **ABB** | Finance Operations Intern – Summer 2027 | USA, TN, Portland | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048201?s=gh-internships-2027) |
 | **Lowe's** | PRO & Services Operations Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672679?s=gh-internships-2027) |
 | **Lowe's** | Pro Delivery & Logistics Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672822?s=gh-internships-2027) |
@@ -620,12 +620,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-internships-2027) |
-| **Northrop Grumman** | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255003?s=gh-internships-2027) |
-| **Aptiv** | Sales Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702905?s=gh-internships-2027) |
-| **Aptiv** | Sales Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702903?s=gh-internships-2027) |
-| **Aptiv** | Sales Intern | Troy, MI - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702904?s=gh-internships-2027) |
-| **Disney** | ABC News Production Internships, New York, Spring 2027 | New York, NY, USA | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10162621?s=gh-internships-2027) |
+| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255003?s=gh-internships-2027) |
+| **Aptiv** | Sales Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702905?s=gh-internships-2027) |
+| **Aptiv** | Sales Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702903?s=gh-internships-2027) |
+| **Aptiv** | Sales Intern | Troy, MI - USA | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702904?s=gh-internships-2027) |
+| **Disney** | ABC News Production Internships, New York, Spring 2027 | New York, NY, USA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10162621?s=gh-internships-2027) |
 | **Lowe's** | PRO Services Reporting Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672735?s=gh-internships-2027) |
 | **RTX** | Digital Technology Intern (Summer 2027) | AZ-TUCSON | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871049?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Business Process Excellence, HR Transformation | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31104?s=gh-internships-2027) |
