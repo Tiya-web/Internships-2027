@@ -293,7 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | 2027 Drug Substance Engineering Intern (PhD) | North Chicago, IL | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016353924?s=gh-internships-2027) |
 | **Parsons** | Roadway Engineering Intern | WA, Seattle, R187733 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187733?s=gh-internships-2027) |
 | **Multiply Labs** | Mechanical Engineering Co-op/Intern (Spring 2027) | San Francisco | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-multiplylabs-4a95d36f-6ea3-4044-a6ab-5c2c1d4997a5?s=gh-internships-2027) |
-| **Veolia Environnement SA** | Operations Engineering Intern | Dayton, OH | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157193189?s=gh-internships-2027) |
+| **Veolia Environnement SA** | Operations Engineering Intern | Dayton, OH | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157193189?s=gh-internships-2027) |
 | **RE/SPEC Inc.** | Student Engineering Intern (Structural) | Anchorage, AK | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RESPECInc-744000157189739?s=gh-internships-2027) |
 | **DoorDash** | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8313401?s=gh-internships-2027) |
 | **Parsons** | HVAC - Mechanical Engineer Intern - Summer 2027 | CA, Pasadena, R187605 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187605?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027 | Glendale, CA, USA | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10162405?s=gh-internships-2027) |
+| **Disney** | Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027 | Glendale, CA, USA | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10162405?s=gh-internships-2027) |
 | **Chicago Trading Company (Campus)** | Accounting Internship - Summer 2027 | Chicago | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-chicagotradingcampus-4745145005?s=gh-internships-2027) |
 | **Together AI** | Growth Marketing Intern (Summer 2027) | San Francisco | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5270409007?s=gh-internships-2027) |
 | **Daimler Truck** | Engineering & Project Management & Business Operations Intern | Portland, OR US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20327?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Daimler Truck** | Vocational & MD Training Intern | Fort Mill, SC US | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20257?s=gh-internships-2027) |
+| **Daimler Truck** | Vocational & MD Training Intern | Fort Mill, SC US | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20257?s=gh-internships-2027) |
 | **Verizon** | Verizon Consumer Group: Customer Go To Channel Operations Summer 2027 Internship | Basking Ridge, New Jersey | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102390?s=gh-internships-2027) |
 | **Premier** | Advocacy Intern | Washington, DC | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-premierinc-external-professional-R0008520?s=gh-internships-2027) |
 | **Premier** | Advocacy Intern | Washington, DC | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-premierinc-external-professional-R0008521?s=gh-internships-2027) |
