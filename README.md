@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682189?s=gh-internships-2027) |
 | **Revvity** | OMICS Laboratory Intern | Duluth | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-revvity-external-JR-045867?s=gh-internships-2027) |
 | **Thornton Tomasetti** | Building Envelope Intern | New York, NY, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7531?s=gh-internships-2027) |
