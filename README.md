@@ -16,9 +16,9 @@
 <p align="center">🚀 Internships across tech, business, healthcare, and more for students, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-4156-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
-  <img src="https://img.shields.io/badge/Hardware%20%26%20Engineering-627-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware & Engineering">
-  <img src="https://img.shields.io/badge/Companies-417-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Total%20Internships-4215-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Hardware%20%26%20Engineering-631-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware & Engineering">
+  <img src="https://img.shields.io/badge/Companies-432-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -82,11 +82,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency | Mountain View, CA, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8287385?s=gh-internships-2027) |
 | **Microsoft** | Software Engineering Intern | Tulsa, Oklahoma, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200063146?s=gh-internships-2027) |
 | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-mongodb-8209134?s=gh-internships-2027) |
+| **HPE (University)** | Cybersecurity Engineering Intern | Spring, Texas, United States of... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216080?s=gh-internships-2027) |
 | **Carrier Global** | Software Engineering Intern - Summer | CAN01: Carrier-Syracuse, 6304... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220588?s=gh-internships-2027) |
 | **Carrier Global** | Systems Engineering Intern - Summer | CAI23: Carrier-Indianapolis,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220556?s=gh-internships-2027) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Headquarters | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR111861?s=gh-internships-2027) |
 | **GlobalFoundries** | New Product Development Test Engineer Intern (Summer 2027) | USA - Texas - Richardson | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2603957?s=gh-internships-2027) |
-| **HPE (University)** | Cybersecurity Engineering Intern | Spring, Texas, United States of... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216080?s=gh-internships-2027) |
 | **KLA** | Software Engineering Intern – AI/ML for Diagnostics & Calibration | Milpitas, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642129?s=gh-internships-2027) |
 | **KLA** | Software Engineering Intern | Milpitas, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642189?s=gh-internships-2027) |
 | **ASML** | Platform Software Engineer In Test ( Internship) | San Jose, CA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00354558?s=gh-internships-2027) |
@@ -128,9 +128,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AeroVironment** | Quality Engineering Intern | Simi Valley, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8586?s=gh-internships-2027) |
 | **Daimler Truck** | BEV Systems Engineering Intern — Energy, Thermal & Analytics Intern | Portland, OR US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20328?s=gh-internships-2027) |
 | **Daimler Truck** | Quality Engineer Internship | Portland, OR US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20334?s=gh-internships-2027) |
-| **Rhoda AI** | Software Engineer Intern, Rhoda Platform | Mountain View | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rhoda-ai-9a57c8ff-dd2b-4547-a46a-44658a699ba5?s=gh-internships-2027) |
-| **Rhoda AI** | Software Engineer Intern, Inference | Mountain View | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rhoda-ai-2de33083-782f-489e-9b91-f40761a36bf4?s=gh-internships-2027) |
-| **Skydio** | Mobile Software Engineer Intern - Summer 2027 | San Mateo, California, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-8a237302-3fe8-4403-b32b-7690f333ba52?s=gh-internships-2027) |
+| **Rhoda AI** | Software Engineer Intern, Rhoda Platform | Mountain View | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rhoda-ai-9a57c8ff-dd2b-4547-a46a-44658a699ba5?s=gh-internships-2027) |
+| **Rhoda AI** | Software Engineer Intern, Inference | Mountain View | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rhoda-ai-2de33083-782f-489e-9b91-f40761a36bf4?s=gh-internships-2027) |
+| **Skydio** | Mobile Software Engineer Intern - Summer 2027 | San Mateo, California, United... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-8a237302-3fe8-4403-b32b-7690f333ba52?s=gh-internships-2027) |
 | **LinkedIn** | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | Mountain View, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000156616169?s=gh-internships-2027) |
 | **Carrier Global** | Systems Engineering Intern - Summer | CAI23: Carrier-Indianapolis,... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220210?s=gh-internships-2027) |
 | **Applied Materials** | 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara) | Santa Clara,CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2630672?s=gh-internships-2027) |
@@ -147,6 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bracebridge Capital** | Northeastern University Software Engineer - Application Development Co-op | Boston, MA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-bracebridgecapital-4745001005?s=gh-internships-2027) |
 | **Bracebridge Capital** | Northeastern University Software Engineer - Business Intelligence Co-op | Boston | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-bracebridgecapital-4744999005?s=gh-internships-2027) |
 | **Bosch Group** | Software Engineering Co-Op - Spring 2027 | Fountain Inn, SC | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000156311682?s=gh-internships-2027) |
+| **American Fidelity** | Software Developer Innovation Internship | Oklahoma City, Oklahoma | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-americanfidelity-external-JR1118?s=gh-internships-2027) |
 | **Johnson & Johnson** | Quality Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103624?s=gh-internships-2027) |
 | **Johnson & Johnson** | Software Test Engineering Co-op (Beatbox) | Danvers, Massachusetts, United... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098707?s=gh-internships-2027) |
 | **Cognex** | Software Engineering Intern | Wauwatosa, Wisconsin | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cognex-external-career-site-R0012549?s=gh-internships-2027) |
@@ -164,7 +165,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Axiom Space** | Systems Engineering Intern (Summer 2027) | Houston | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100768?s=gh-internships-2027) |
 | **Axiom Space** | Software Engineering Intern (Summer 2027) | Houston | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100767?s=gh-internships-2027) |
 | **Moderna** | Co-Op, Quality Assurance & Compliance | Norwood, Massachusetts, Quality | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19954?s=gh-internships-2027) |
-| **General Motors** | 2027 Summer Intern, Systems Engineer, ASD | 2 Locations | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621989?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -187,6 +187,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-amperesand-4465899009?s=gh-internships-2027) |
 | **Flagship Pioneering** | ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op | Cambridge, MA USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8911276002?s=gh-internships-2027) |
 | **Flagship Pioneering** | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8911245002?s=gh-internships-2027) |
+| **Live Nation** | Venue Analytics Intern | Chicago, IL, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93773?s=gh-internships-2027) |
 | **Merck & Co.** | 2027 Future Talent Program - Pharmacokinetic, Dynamics, Metabolism and Bioanalytics Intern | USA - Pennsylvania - West Point | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R413056?s=gh-internships-2027) |
 | **Rivian and Volkswagen Group Technologies** | Data Engineering Intern - AI & Analytics (Summer 2027) | Palo Alto, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-7967cd44-5469-48b8-b69f-f036e4098464?s=gh-internships-2027) |
 | **Atoms** | ML/AI Research Internship - PhD | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-atoms-8909102002?s=gh-internships-2027) |
@@ -198,6 +199,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Innovation & Technology Internship – Data Engineering – Summer 2027 (Undergraduate) | NY - New York | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081090?s=gh-internships-2027) |
 | **Northwood Space** | Supply Chain Data & Analytics Intern (2027 Summer Internship) | Torrance, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-northwoodspace-69f99cd7-3ce7-413a-8cfe-29b7ccbc1490?s=gh-internships-2027) |
 | **Trace3** | Data & Analytics Intern | Irvine, CA, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8274818?s=gh-internships-2027) |
+| **Nasdaq** | Business Analyst Intern - 2027 Summer Internship | USA - New York City - New York | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027136?s=gh-internships-2027) |
 | **Applied Materials** | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's... | Austin,TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2626381?s=gh-internships-2027) |
 | **Anduril** | 2027 Finance Data Analyst Intern | Costa Mesa, California, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5269977007?s=gh-internships-2027) |
 | **Flagship Pioneering** | Pioneering Medicines: Portfolio Strategy & Analytics Co-Op | Cambridge, MA USA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8893513002?s=gh-internships-2027) |
@@ -268,14 +270,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GenScript** | AI Intern, Enterprise Agent Development | Piscataway, New Jersey, United... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-genscript-5253581007?s=gh-internships-2027) |
 | **Moderna** | Co-Op, Bioanalytics | Cambridge, Massachusetts, Research | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19882?s=gh-internships-2027) |
 | **Crowe** | Machine Learning Intern | Chicago, IL | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-71005?s=gh-internships-2027) |
+| **Q2** | 2027 Summer Internship - Data Science | Cary, North Carolina | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12799?s=gh-internships-2027) |
+| **Q2** | 2027 Summer Internship - Machine Learning Engineer | Cary, North Carolina | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-q2ebanking-q2-REQ-12800?s=gh-internships-2027) |
 | **Moderna** | Co-Op, Bioanalytics | Norwood, Massachusetts,... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19859?s=gh-internships-2027) |
 | **LLNL** | Data Science Institute Graduate Student Intern - Summer 2027 | Livermore, CA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015737586?s=gh-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-internships-2027) |
 | **Gilead Sciences** | Intern - Research - Data Sciences - AI | United States - California -... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0055524?s=gh-internships-2027) |
-| **FOX** | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-internships-2027) |
-| **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8233953?s=gh-internships-2027) |
-| **Red Ventures** | 2027 Launch Program: Data Science Intern | Charlotte, NC | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-redventures-8233284?s=gh-internships-2027) |
-| **HP Inc** | Business Intelligence and Infrastructure Analysts  Intern | Vancouver, Washington, United... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4669?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -337,8 +337,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Daimler Truck** | Reman Product Engineering Intern | Detroit, MI US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20342?s=gh-internships-2027) |
 | **Daimler Truck** | Manufacturing Engineering Intern | Cleveland, NC US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20268?s=gh-internships-2027) |
 | **Daimler Truck** | Mechatronics Engineering Intern – Body Interface and Controls | High Point, NC US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20341?s=gh-internships-2027) |
-| **Skydio** | Wireless Hardware Engineer Intern - Summer 2027 | San Mateo, California, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-1ac972b1-8094-4765-8869-63e1c4d50dea?s=gh-internships-2027) |
-| **Illumio** | Engineering Intern, Product Security | Sunnyvale, California - | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-illumio-8708e622-900e-458a-96b3-ae339329a56d?s=gh-internships-2027) |
+| **Skydio** | Wireless Hardware Engineer Intern - Summer 2027 | San Mateo, California, United... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-1ac972b1-8094-4765-8869-63e1c4d50dea?s=gh-internships-2027) |
+| **Illumio** | Engineering Intern, Product Security | Sunnyvale, California - | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-illumio-8708e622-900e-458a-96b3-ae339329a56d?s=gh-internships-2027) |
 | **RE/SPEC Inc.** | Student Engineering Intern (Structural) | Morgantown, WV | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RESPECInc-744000156644855?s=gh-internships-2027) |
 | **Olsson** | Engineering Internship - Rail Public Projects | Utah - Remote | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5458376008?s=gh-internships-2027) |
 | **Carrier Global** | Design Engineering Intern - Summer | CAI19: UTEC-Huntington, 111... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220221?s=gh-internships-2027) |
@@ -362,6 +362,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AeroVironment** | Manufacturing Engineering Intern | Pottstown, PA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9104?s=gh-internships-2027) |
 | **AutoStore** | Electrical Engineering Coop | Atlanta, GA, USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autostore-autostore-JR102695?s=gh-internships-2027) |
 | **Skydio** | Process Engineering Intern - Summer 2027 | San Mateo, California, United... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-6e76d5fa-981e-4986-955b-602aa6ddcb1b?s=gh-internships-2027) |
+| **Booz Allen Hamilton** | University - Spring 2027 Electronic Warfare FPGA Engineering Intern | Beavercreek, OH | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248465?s=gh-internships-2027) |
+| **Nasdaq** | Intelligent Automation Intern - 2027 Summer Internship | USA - New York City - New York | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027113?s=gh-internships-2027) |
 | **Rockwell Automation** | Co-op, Electrical Engineer (June - Dec 2027) | Chelmsford, Massachusetts,... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-7706?s=gh-internships-2027) |
 | **Syska Hennessy Group** | Mechanical Engineer Summer Intern | Tampa, FL | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-syskahennessy-8267624?s=gh-internships-2027) |
 | **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5265158007?s=gh-internships-2027) |
@@ -385,8 +387,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zipline** | Firmware Engineer Intern (Spring 2027) | South San Francisco,... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-flyzipline-8020863003?s=gh-internships-2027) |
 | **Bosch Group** | Mechanical Engineering Co-op Spring 2027 | Fountain Inn, SC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154765539?s=gh-internships-2027) |
 | **Olsson** | Structural Engineering Internship - Facilities | Dallas, TX | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5441485008?s=gh-internships-2027) |
-| **Bosch Group** | Manufacturing Engineering Intern | Grand Rapids, MI | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154762134?s=gh-internships-2027) |
-| **Rivian and Volkswagen Group Technologies** | Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027) | Champaign, Illinois | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-526c87f2-fba4-4744-8b87-1cb949b5cdfc?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -494,10 +494,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) | San Francisco, CA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8843341002?s=gh-internships-2027) |
 | **GlobalFoundries** | Circuit Design Intern, Master's or PhD (Summer 2027) | USA - Texas - Austin | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604363?s=gh-internships-2027) |
 | **FOX** | Summer 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033985?s=gh-internships-2027) |
-| **RTX** | FPGA Electrical Design Engineer Intern (Summer 2027)(Onsite) | AZ-TUCSON-M02 | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872989?s=gh-internships-2027) |
+| **HPE (University)** | PhD Research Intern | Milpitas, California, United... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213426?s=gh-internships-2027) |
+| **RTX** | FPGA Electrical Design Engineer Intern (Summer 2027)(Onsite) | AZ-TUCSON-M02 | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872989?s=gh-internships-2027) |
 | **HP Inc** | Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus) | Spring, Texas, United States of... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4756?s=gh-internships-2027) |
 | **Uline** | UX Design Internship - Summer 2027 | Pleasant Prairie, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R266218?s=gh-internships-2027) |
-| **Copart** | Technology Product Analyst Intern | Dallas, TX - Headquarters | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR110789?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -512,6 +512,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Impulse Space** | Supply Chain Intern (Summer 2027) | Redondo Beach, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-569297?s=gh-internships-2027) |
 | **Google** | Technical Program Manager Intern, BS/MS, Summer 2027 | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-80582381009806022?s=gh-internships-2027) |
 | **ByteDance** | AI Creator Operations Intern (CapCut) - 2027 Start | Los Angeles, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7673715653065525509?s=gh-internships-2027) |
+| **Oshkosh Corporation** | Supply Chain Intern | Spartanburg, South Carolina,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51076?s=gh-internships-2027) |
 | **GlobalFoundries** | Systems/Process Engineering, Tapeout Operations Intern (Summer 2027) | USA - Vermont - Essex Junction | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604924?s=gh-internships-2027) |
 | **Cboe** | Operational Resilience & Technical Content Intern | Kansas City, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4779?s=gh-internships-2027) |
 | **GE Vernova** | GE Vernova Gas Power Supply Chain & Manufacturing  Internship/Co-op – SPRING/SUMMER 2027... | Bangor | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5056308?s=gh-internships-2027) |
@@ -539,6 +540,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **The Travelers Companies** | Marketing & Communications Intern - Social Media | CT - Hartford | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53367?s=gh-internships-2027) |
 | **The Travelers Companies** | Marketing & Communications Intern - Integrated Marketing | CT - Hartford | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53355?s=gh-internships-2027) |
 | **Bosch Group** | Human Resources Intern - Recruitment, Onboarding & Employer Brand | Farmington Hills, MI | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000156575131?s=gh-internships-2027) |
+| **American Fidelity** | Employer Operations Intern | Oklahoma City, Oklahoma | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-americanfidelity-external-JR1120?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Associate Finance Intern (MBA - Santa Clara, CA) | Santa Clara,CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2624906?s=gh-internships-2027) |
 | **Manhattan Associates** | Customer Experience Org Operations Intern - Summer 2027 | Atlanta, GA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manh-campus-16962?s=gh-internships-2027) |
 | **LexisNexis Risk Solutions** | Insurance Segment Marketing Intern | Alpharetta GA Alderman | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-relx-risksolutions-R118948?s=gh-internships-2027) |
@@ -604,11 +606,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rocket Lab** | Supply Chain Intern | Long Beach, CA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-7984786003?s=gh-internships-2027) |
 | **Atoms** | Operations Intern | San Francisco, CA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-atoms-8869366002?s=gh-internships-2027) |
 | **Atoms** | MBA Technical Strategy and Operations Intern | San Francisco, CA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-atoms-8868464002?s=gh-internships-2027) |
+| **Caterpillar** | 2026 Supply Chain Co-Op | Cary North Carolina | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000322517?s=gh-internships-2027) |
 | **Rocket Companies** | Treasury Operations Intern - Winter 2027 | Detroit, MI | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084527?s=gh-internships-2027) |
 | **Eulerity** | Finance Internship | New York, NY | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-eulerity-4718848006?s=gh-internships-2027) |
-| **Muon Space** | People Operations Intern (Summer 2027) | Mountain View, CA | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5255938007?s=gh-internships-2027) |
-| **xAI** | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xai-5255113007?s=gh-internships-2027) |
-| **xAI** | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xai-5255116007?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -620,6 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Arkansas Children's** | Summer Science Intern | Little Rock, R0024624 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024624?s=gh-internships-2027) |
 | **Parsons** | Civil Engineer Intern - Summer 2027 | CA, Pasadena, R187651 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187651?s=gh-internships-2027) |
 | **Parsons** | STRUCTURAL ENGINEER INTERN | CA, Pasadena, R187670 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187670?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Drafter Intern | Colorado - Lakewood | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-22482?s=gh-internships-2027) |
@@ -657,12 +658,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **1Password** | Product Management Intern, End User Experience - Winter 2027 | Remote (United States  Canada) | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-bef2e88e-9590-467d-8ba6-821b30529003?s=gh-internships-2027) |
 | **1Password** | Developer Intern, Developer Interfaces - Winter 2027 | Remote (United States  Canada) | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-00f861d4-2b4a-4159-b6dc-8aed0cde6e39?s=gh-internships-2027) |
 | **1Password** | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States  Canada) | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-67bfbd8b-aba9-42b1-a8a8-833367888fba?s=gh-internships-2027) |
+| **S&P Global** | Market Intelligence Sales Associate Internship | New York, NY | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332491?s=gh-internships-2027) |
+| **Nasdaq** | Business Development Intern - 2027 Summer Internship | USA - Boston - Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027154?s=gh-internships-2027) |
+| **USAA** | Bank Credit Risk Analyst Intern | San Antonio Home | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0121998?s=gh-internships-2027) |
+| **Oshkosh Corporation** | Product Safety Training Intern | McConnellsburg, Pennsylvania,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49494?s=gh-internships-2027) |
+| **Oshkosh Corporation** | Manufacturing Simulation Intern | McConnellsburg, Pennsylvania,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49618?s=gh-internships-2027) |
 | **Carrier Global** | Building Automation Field Engineer Intern - Summer | CAP27: ALC- Harrisburg, 6345... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218662?s=gh-internships-2027) |
 | **Johnson & Johnson** | Laboratory Automation Systems Intern | Spring House, Pennsylvania,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103027?s=gh-internships-2027) |
 | **Johnson & Johnson** | Laboratory Digital Twin Intern | Spring House, Pennsylvania,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103046?s=gh-internships-2027) |
 | **Merck & Co.** | 2027 Future Talent Program - Data, AI, and Genome Sciences - Intern | USA - Massachusetts - Cambridge | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423333?s=gh-internships-2027) |
-| **Merck & Co.** | 2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern | USA - Massachusetts - Cambridge | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423515?s=gh-internships-2027) |
-| **Merck & Co.** | 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern | USA - Massachusetts - Cambridge | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423438?s=gh-internships-2027) |
+| **Merck & Co.** | 2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern | USA - Massachusetts - Cambridge | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423515?s=gh-internships-2027) |
+| **Merck & Co.** | 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern | USA - Massachusetts - Cambridge | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423438?s=gh-internships-2027) |
 | **Verizon** | Verizon Consumer Group: Customer Go To Channel Operations Summer 2027 Internship | Basking Ridge, New Jersey | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102390?s=gh-internships-2027) |
 | **Nike** | Converse Merchandising Graduate Internship | Boston, Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-96257?s=gh-internships-2027) |
 | **Nike** | Converse AI Enablement Graduate Internship | Boston, Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-96256?s=gh-internships-2027) |
@@ -714,12 +720,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | 2027 Summer Intern, PhD, Research, Multimodal Foundation Models | Mountain View, CA, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8306867?s=gh-internships-2027) |
 | **Toyota Research Institute** | Human Aware Interactions and Learning Intern | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-71e99c38-aa29-4414-956d-cc526644b9b7?s=gh-internships-2027) |
 | **AbbVie** | 2027 Formulation Sciences Intern (PhD) | North Chicago, IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016354708?s=gh-internships-2027) |
-| **AbbVie** | 2027 Synthetic Chemistry Intern (PhD) | North Chicago, IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016353976?s=gh-internships-2027) |
-| **OpenSesame** | AI Product Builder Intern | Austin | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-opensesame-8313424?s=gh-internships-2027) |
-| **Veolia Environnement SA** | R&D Laboratory Intern | Tomball, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157212407?s=gh-internships-2027) |
-| **Varda Space** | Construction Management Internship – Spring 2027 | El Segundo, California, United... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8041944003?s=gh-internships-2027) |
-| **Horace Mann** | Intern - Temporary | Springfield, IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-horacemannservicecorporation-6230271004?s=gh-internships-2027) |
-| **Trace3** | Technology Sales Intern | Columbus, Ohio | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8289403?s=gh-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -797,7 +797,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4156 current opportunities from 417 companies**
+**🎯 4215 current opportunities from 432 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
