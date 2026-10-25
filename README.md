@@ -559,7 +559,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | 2027 Technical Program Manager Intern | Costa Mesa, California, United... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5268864007?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Ion Exchange Operations Intern-SPSC | St. Peters, MO | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000156384029?s=gh-internships-2027) |
 | **NBCUniversal** | Technology Events & Communications Intern, DreamWorks Animation, Spring 2027 | Glendale, CALIFORNIA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000156369149?s=gh-internships-2027) |
-| **Bosch Group** | Finance Intern - Diablo Tools | Atlanta, GA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000156311489?s=gh-internships-2027) |
+| **Bosch Group** | Finance Intern - Diablo Tools | Atlanta, GA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000156311489?s=gh-internships-2027) |
 | **Arch Capital Group** | Security Operations Intern | Greensboro, NC United States of... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1016?s=gh-internships-2027) |
 | **NVIDIA** | Sales Operations Intern - Summer 2027 | US, CA, Santa Clara | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027840?s=gh-internships-2027) |
 | **GE Vernova** | Part Time Supply Chain Co-Op | Allentown | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5055883?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Chamberlain Group** | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31309?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30481?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Global Record to Report | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31010?s=gh-internships-2027) |
