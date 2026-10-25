@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Chamberlain Group** | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31309?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30481?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Global Record to Report | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31010?s=gh-internships-2027) |
@@ -654,7 +654,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Figure AI** | Developer Productivity Intern \[Winter 2027\] | San Jose, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figureai-4724521006?s=gh-internships-2027) |
 | **Shield AI** | June 2027 Co-op - Reliability Engineering #5953 | Seattle, Washington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-bef440ce-0365-4de7-9b1e-b1288cdaf7f3?s=gh-internships-2027) |
 | **Epic Games** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6232770004?s=gh-internships-2027) |
-| **Veolia Environnement SA** | Project Management Intern | Glen Allen, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157544430?s=gh-internships-2027) |
+| **Veolia Environnement SA** | Project Management Intern | Glen Allen, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157544430?s=gh-internships-2027) |
 | **ICF** | 2027 Summer Intern, Program Operations (MO, AR, IL, TX) | Jefferson City, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603391?s=gh-internships-2027) |
 | **Oshkosh Corporation** | Product Safety Training Intern | McConnellsburg, Pennsylvania,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49494?s=gh-internships-2027) |
 | **Oshkosh Corporation** | Manufacturing Simulation Intern | McConnellsburg, Pennsylvania,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49618?s=gh-internships-2027) |
