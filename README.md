@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cox** | Software Engineering Intern - Summer 2027 (Austin, TX) | Austin TX | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682168?s=gh-internships-2027) |
+| **Cox** | Software Engineering Intern - Summer 2027 (Austin, TX) | Austin TX | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682168?s=gh-internships-2027) |
 | **HPE (University)** | Cybersecurity Engineering Intern | Spring, Texas, United States of... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216080?s=gh-internships-2027) |
 | **CVS Health** | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad | NY - New York | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-internships-2027) |
 | **CVS Health** | Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad | AZ Scottsdale | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081193?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-internships-2027) |
+| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-internships-2027) |
 | **Philips** | Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, Colorado,... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591948?s=gh-internships-2027) |
 | **Sony** | Research Intern – Self-evolving Multimodal Foundation Models | Remote - Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119804?s=gh-internships-2027) |
 | **Daimler Truck** | Automotive UX UI Design Intern | Portland, OR US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20198?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682189?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682189?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | CA - Milpitas | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084335?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | NM - Las Cruces | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084321?s=gh-internships-2027) |
 | **Micron Technology** | Intern - ATE Process Engineer, PCVD ID1 | Boise, ID - Main Site | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115032?s=gh-internships-2027) |
