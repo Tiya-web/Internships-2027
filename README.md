@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 59m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Chamberlain Group** | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31309?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30481?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Global Record to Report | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31010?s=gh-internships-2027) |
