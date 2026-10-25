@@ -432,7 +432,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Disney** | Disney Consumer Products Retail Creative Graphic Design Intern, Spring 2027 | Kissimmee, FL, USA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160400?s=gh-internships-2027) |
 | **Schonfeld** | 2027 PhD Centralized Research Intern | New York, New York, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-schonfeld-8174538?s=gh-internships-2027) |
 | **Varda Space** | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8040897003?s=gh-internships-2027) |
-| **Intuitive** | Clinical Scientist Intern | Sunnyvale, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000156899239?s=gh-internships-2027) |
+| **Intuitive** | Clinical Scientist Intern | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000156899239?s=gh-internships-2027) |
 | **Carnegie Mellon University** | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025199?s=gh-internships-2027) |
 | **HNTB** | Returning New Grad Graphic Designer I (For current/previous HNTB interns ONLY) | Atlanta, GA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-32124?s=gh-internships-2027) |
 | **Aptiv** | AI Product Analyst Intern | USA San Diego, CA - WR | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704400?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Chamberlain Group** | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31309?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30481?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Global Record to Report | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31010?s=gh-internships-2027) |
