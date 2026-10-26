@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-internships-2027) |
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-internships-2027) |
-| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-internships-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-internships-2027) |
+| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
 | **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-internships-2027) |
 | **Parsons** | Software Engineer Co-Op - TS/SCI | VA, Centreville, R187147 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187147?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23816?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | College Intern - Technical | Woodridge, IL | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
+| **Teledyne** | College Intern - Technical | Woodridge, IL | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
 | **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-internships-2027) |
 | **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-internships-2027) |
 | **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-internships-2027) |
