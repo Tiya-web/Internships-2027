@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern | MA - Cambridge | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998172?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MA - Malden | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0995587?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Cambridge | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998172?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Malden | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0995587?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-internships-2027) |
 | **Invesco** | Early Career Intern - Internal Sales (Global Liquidity) | New York, New York | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15865?s=gh-internships-2027) |
 | **Skydio** | Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?s=gh-internships-2027) |
 | **Skydio** | PhD Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-fe26fdf8-15b2-44e6-8e43-ace13431453c?s=gh-internships-2027) |
