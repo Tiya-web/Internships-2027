@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-internships-2027) |
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-internships-2027) |
-| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-internships-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-internships-2027) |
+| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
 | **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-internships-2027) |
 | **Parsons** | Software Engineer Co-Op - TS/SCI | VA, Centreville, R187147 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187147?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23816?s=gh-internships-2027) |
@@ -91,7 +91,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Software Engineering Intern | Tulsa, Oklahoma, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200063146?s=gh-internships-2027) |
 | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-mongodb-8209134?s=gh-internships-2027) |
 | **KLA** | Software Engineering Intern – AI/ML for Diagnostics & Calibration | Milpitas, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642129?s=gh-internships-2027) |
-| **KLA** | Software Engineering Intern | Milpitas, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642189?s=gh-internships-2027) |
+| **KLA** | Software Engineering Intern | Milpitas, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642189?s=gh-internships-2027) |
 | **RTX** | Software Engineering Co-op (Spring/Summer 2027) | IA-CEDAR RAPIDS | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879727?s=gh-internships-2027) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Headquarters | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR111861?s=gh-internships-2027) |
 | **Cisco** | Software Engineer Full Stack / Backend I (Co-op) - United States | San Jose California US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026049?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | College Intern - Technical | Woodridge, IL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
+| **Teledyne** | College Intern - Technical | Woodridge, IL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
 | **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-internships-2027) |
 | **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-internships-2027) |
 | **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-internships-2027) |
@@ -684,7 +684,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Aptiv** | Intern - Compiler Team | USA Walnut Creek, CA - WR | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704385?s=gh-internships-2027) |
 | **Manulife** | Winter Co-op 2027 – Global Wealth & Asset Management Operations | Boston, Massachusetts | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26100464?s=gh-internships-2027) |
 | **KLA** | Chemistry R&D Intern | Totowa, NJ | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642152?s=gh-internships-2027) |
-| **KLA** | Product Development Engineer Intern | Milpitas, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642130?s=gh-internships-2027) |
+| **KLA** | Product Development Engineer Intern | Milpitas, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642130?s=gh-internships-2027) |
 | **AstraZeneca** | Global Tax Intern | New Haven - CT | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262631?s=gh-internships-2027) |
 | **AstraZeneca** | Preclinical Mathematical Modeling Internship | Cambridge Kendall SQ - MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262630?s=gh-internships-2027) |
 | **AstraZeneca** | Medical Writing Intern | Boston - MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262606?s=gh-internships-2027) |
