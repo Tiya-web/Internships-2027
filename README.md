@@ -620,13 +620,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | College Intern - Technical | Woodridge, IL | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
-| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-internships-2027) |
-| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-internships-2027) |
-| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | ME - Kennebunk | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086195?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | CA - Roseville | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086198?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | WV - Morgantown | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086199?s=gh-internships-2027) |
+| **Teledyne** | College Intern - Technical | Woodridge, IL | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-internships-2027) |
+| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-internships-2027) |
+| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-internships-2027) |
+| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | ME - Kennebunk | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086195?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | CA - Roseville | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086198?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | WV - Morgantown | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086199?s=gh-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-internships-2027) |
 | **Skydio** | Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?s=gh-internships-2027) |
 | **Skydio** | PhD Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-fe26fdf8-15b2-44e6-8e43-ace13431453c?s=gh-internships-2027) |
