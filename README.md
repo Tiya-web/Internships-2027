@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
-| **Visa** | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089900W?s=gh-internships-2027) |
+| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
+| **Visa** | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089900W?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286826?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Digital Operations Business Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289843?s=gh-internships-2027) |
 | **Applied Materials** | 2027 Spring Data Scientist Co-op - Gloucester, MA | Gloucester,MA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632146?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089884W?s=gh-internships-2027) |
+| **Visa** | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089884W?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA | 2 Locations | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257568?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA | 2 Locations | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257567?s=gh-internships-2027) |
 | **RTX** | Procurement Intern (Summer 2027) | TX-REMOTE | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879137?s=gh-internships-2027) |
@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089881W?s=gh-internships-2027) |
-| **Visa** | Real Estate Intern - Summer 2027 | San Francisco, CA | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089902W?s=gh-internships-2027) |
-| **Visa** | Workforce Protection Intern - Summer 2027 | Foster City, CA | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089901W?s=gh-internships-2027) |
+| **Visa** | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089881W?s=gh-internships-2027) |
+| **Visa** | Real Estate Intern - Summer 2027 | San Francisco, CA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089902W?s=gh-internships-2027) |
+| **Visa** | Workforce Protection Intern - Summer 2027 | Foster City, CA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089901W?s=gh-internships-2027) |
 | **Leidos** | Regulatory Document Intern | 6314 Remote/Teleworker US | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195418?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Epic Systems Analyst / Epic AI enGen Undergraduate Internship | Pittsburgh PA, 15222, PAP, Penn... | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289801?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise Architecture Business Operations/Project Management enGen Undergraduate... | Pittsburgh PA, 15222, PAP, Penn... | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289820?s=gh-internships-2027) |
@@ -643,7 +643,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KION Group** | Controls Engineer - Co-Op | Grand Rapids, MI, United States | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0089161?s=gh-internships-2027) |
 | **ABB** | IS Common Infrastructure Intern- Summer 2027 | USA, NC, Cary | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047125?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-6f60ff79-c902-466a-912c-7ab849ce6424?s=gh-internships-2027) |
-| **Toyota Research Institute** | Robotics Intern, World Foundation Models | Los Altos, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-016bbb58-857a-4367-b1aa-0cdc9f818478?s=gh-internships-2027) |
+| **Toyota Research Institute** | Robotics Intern, World Foundation Models | Los Altos, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-016bbb58-857a-4367-b1aa-0cdc9f818478?s=gh-internships-2027) |
 | **BillionToOne** | Research Associate Intern | Menlo Park, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4747865005?s=gh-internships-2027) |
 | **ABB** | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047254?s=gh-internships-2027) |
 | **CFS Energy** | Intern - Micorwave Engineer - Summer 2027 | Devens, MA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-79cd53ba-b864-4bcb-8421-60cf58f7df54?s=gh-internships-2027) |
@@ -664,9 +664,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lowe's** | Provider Performance and Management Intern – Undergraduate Internship - 2027 | Mooresville, NC (SSC) 1999 | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684019?s=gh-internships-2027) |
 | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5271149007?s=gh-internships-2027) |
 | **Samsara** | Account Development Representative Intern - Phoenix | Phoenix, Arizona, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8325056?s=gh-internships-2027) |
-| **Jensen Hughes** | Nuclear Intern | Houston, Texas, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462688008?s=gh-internships-2027) |
-| **Jensen Hughes** | Intern, Fire Protection Engineering | Allen, Texas, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462623008?s=gh-internships-2027) |
-| **Jensen Hughes** | Intern, Fire Protection Engineering | Denver, Colorado, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462641008?s=gh-internships-2027) |
+| **Jensen Hughes** | Nuclear Intern | Houston, Texas, United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462688008?s=gh-internships-2027) |
+| **Jensen Hughes** | Intern, Fire Protection Engineering | Allen, Texas, United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462623008?s=gh-internships-2027) |
+| **Jensen Hughes** | Intern, Fire Protection Engineering | Denver, Colorado, United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5462641008?s=gh-internships-2027) |
 | **AMD** | Spring/Summer 2027 Undergrad Technical Writer Co-Op | Austin, TX, United States | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-91082?s=gh-internships-2027) |
 | **Skydio** | Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) | San Mateo, California, United... | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-6f5caf41-fa1d-4208-9bdc-82c72e5d3f17?s=gh-internships-2027) |
 | **Skydio** | Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ) | San Mateo, California, United... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-19352f5e-c30d-4184-a070-3c25b0ebc048?s=gh-internships-2027) |
