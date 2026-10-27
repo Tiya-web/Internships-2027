@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
+| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
 | **RTX** | Test Engineering Specialist Co-Op (Onsite) | MA-ANDOVER-AN1 | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874746?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Software Engineer enGen Undergraduate Intern | PA, Working at Home - Pennsylvania | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290027?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Software Engineer enGen Undergraduate Intern | PA, Working at Home - Pennsylvania | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289812?s=gh-internships-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
-| **Visa** | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089900W?s=gh-internships-2027) |
+| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
+| **Visa** | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089900W?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286826?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Digital Operations Business Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289843?s=gh-internships-2027) |
 | **CVS Health** | Innovation & Technology Internship – Data Engineering – Summer 2027 (Undergraduate) | TX - Irving | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084831?s=gh-internships-2027) |
@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089884W?s=gh-internships-2027) |
-| **JM Family Enterprises** | Marketing Communications Intern | Florida - Deerfield Beach | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105099?s=gh-internships-2027) |
+| **Visa** | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089884W?s=gh-internships-2027) |
+| **JM Family Enterprises** | Marketing Communications Intern | Florida - Deerfield Beach | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105099?s=gh-internships-2027) |
 | **RTX** | Procurement Intern (Summer 2027) | TX-REMOTE | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879137?s=gh-internships-2027) |
 | **RTX** | Supply Chain Intern (Summer 2027) | IA-CEDAR RAPIDS | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878201?s=gh-internships-2027) |
 | **Lowe's** | Operations Intern – Undergrad Internship – Summer 2027 - Field | Mooresville, NC (SSC) 1999 | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02681826?s=gh-internships-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089881W?s=gh-internships-2027) |
-| **Visa** | Real Estate Intern - Summer 2027 | San Francisco, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089902W?s=gh-internships-2027) |
-| **Visa** | Workforce Protection Intern - Summer 2027 | Foster City, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089901W?s=gh-internships-2027) |
-| **PTC** | Onshape QA Intern (Summer 2027) | Boston, MA, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112910?s=gh-internships-2027) |
-| **PTC** | Onshape SysOps Intern (Summer 2027) | Boston, MA, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112928?s=gh-internships-2027) |
+| **Visa** | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089881W?s=gh-internships-2027) |
+| **Visa** | Real Estate Intern - Summer 2027 | San Francisco, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089902W?s=gh-internships-2027) |
+| **Visa** | Workforce Protection Intern - Summer 2027 | Foster City, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089901W?s=gh-internships-2027) |
+| **PTC** | Onshape QA Intern (Summer 2027) | Boston, MA, USA | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112910?s=gh-internships-2027) |
+| **PTC** | Onshape SysOps Intern (Summer 2027) | Boston, MA, USA | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112928?s=gh-internships-2027) |
 | **Leidos** | Regulatory Document Intern | 6314 Remote/Teleworker US | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195418?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Epic Systems Analyst / Epic AI enGen Undergraduate Internship | Pittsburgh PA, 15222, PAP, Penn... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289801?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Enterprise Architecture Business Operations/Project Management enGen Undergraduate... | Pittsburgh PA, 15222, PAP, Penn... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289820?s=gh-internships-2027) |
@@ -641,7 +641,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | IS Common Infrastructure Intern- Summer 2027 | USA, NC, Cary | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047125?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-6f60ff79-c902-466a-912c-7ab849ce6424?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, World Foundation Models | Los Altos, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-016bbb58-857a-4367-b1aa-0cdc9f818478?s=gh-internships-2027) |
-| **BillionToOne** | Research Associate Intern | Menlo Park, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4747865005?s=gh-internships-2027) |
+| **BillionToOne** | Research Associate Intern | Menlo Park, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4747865005?s=gh-internships-2027) |
 | **ABB** | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, United... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047254?s=gh-internships-2027) |
 | **CFS Energy** | Intern - Micorwave Engineer - Summer 2027 | Devens, MA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-79cd53ba-b864-4bcb-8421-60cf58f7df54?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, Post-Training and Continual Learning | Los Altos, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-f6541d1f-b72f-456f-829f-bf118ac10c43?s=gh-internships-2027) |
@@ -653,7 +653,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | 2027 Product Development, Science, and Technology Intern (Undergraduate) | North Chicago, IL | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016416916?s=gh-internships-2027) |
 | **CFS Energy** | Intern - EHS Engineer - Spring or Summer 2027 | Devens, MA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-3e88978c-ff6e-461a-997a-2a7a6ffb3fea?s=gh-internships-2027) |
 | **AbbVie** | 2027 Injection Device Development Intern (Undergraduate) | North Chicago, IL | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016416476?s=gh-internships-2027) |
-| **AbbVie** | 2027 PDS&T Cell Line Development Co-Op (June - Dec) | Worcester, MA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016416086?s=gh-internships-2027) |
+| **AbbVie** | 2027 PDS&T Cell Line Development Co-Op (June - Dec) | Worcester, MA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016416086?s=gh-internships-2027) |
 | **Parsons** | Bridge and Structural Intern | WA, Seattle, R187778 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187778?s=gh-internships-2027) |
 | **Samsara** | Account Development Representative Intern - Atlanta | Atlanta, Georgia, United States | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8325373?s=gh-internships-2027) |
 | **Samsara** | Account Development Representative Intern - Phoenix | Phoenix, Arizona, United States | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8325371?s=gh-internships-2027) |
