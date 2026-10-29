@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Software Engineer Intern | Milpitas, CA | 48m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-internships-2027) |
+| **KLA** | Software Engineer Intern | Milpitas, CA | 57m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-internships-2027) |
 | **Figma** | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6238015004?s=gh-internships-2027) |
 | **LinkedIn** | Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) | Mountain View, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000158394370?s=gh-internships-2027) |
 | **The Nuclear Company** | Spring 2027 Security Engineer Intern | Washington, D.C. | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenuclearcompany-5466153008?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Mechanical Engineering Intern | TN-Oak Ridge | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174161?s=gh-internships-2027) |
+| **Amentum** | Mechanical Engineering Intern | TN-Oak Ridge | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174161?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ) | Chandler,AZ | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2628770?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2626710?s=gh-internships-2027) |
 | **Etched** | Core Engineering Intern | San Jose | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-etched-494546ec-de37-46a2-b450-692c23b7b0c8?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SharkNinja** | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) | Needham, MA, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4720191006?s=gh-internships-2027) |
+| **SharkNinja** | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) | Needham, MA, United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4720191006?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington, United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064379?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - Machine Learning and Optimization - Redmond | Redmond, Washington, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064359?s=gh-internships-2027) |
 | **Boston Dynamics** | Atlas VLA Research Intern | Waltham | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3317?s=gh-internships-2027) |
@@ -620,17 +620,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Uline** | Outside Sales Internship - Summer 2027 | Portland, OR | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268759?s=gh-internships-2027) |
-| **Uline** | Outside Sales Internship - Summer 2027 | Seattle, WA | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268760?s=gh-internships-2027) |
-| **Uline** | Warehouse Management Internship - Summer 2027 | Lacey, WA | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268758?s=gh-internships-2027) |
-| **Target** | Store Executive Intern (Store Leadership Intern) – Manhattan Beach, CA (Starting Summer 2027) | Manhattan Beach, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450296?s=gh-internships-2027) |
-| **Target** | Store Executive Intern (Store Leadership Intern) – Moreno Valley / Inland Empire, CA, CA... | Moreno Valley, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450602?s=gh-internships-2027) |
-| **Target** | Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027) | San Diego, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450290?s=gh-internships-2027) |
-| **Jabil** | Mold Process Technician - Co-Op | Clinton, MA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470224?s=gh-internships-2027) |
-| **Lowe's** | Store Operations - Retail Facilities Support - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02650537?s=gh-internships-2027) |
-| **Amentum** | Intern - GN&C Graduate Spring Intern | AL-Huntsville | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174245?s=gh-internships-2027) |
-| **Amentum** | Intern - GN&C Spring Intern | AL-Huntsville | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174254?s=gh-internships-2027) |
-| **Amentum** | Spring 2027 Intern - Structural Dynamics Engineer | TX-Houston | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174115?s=gh-internships-2027) |
+| **Uline** | Outside Sales Internship - Summer 2027 | Portland, OR | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268759?s=gh-internships-2027) |
+| **Uline** | Outside Sales Internship - Summer 2027 | Seattle, WA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268760?s=gh-internships-2027) |
+| **Uline** | Warehouse Management Internship - Summer 2027 | Lacey, WA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268758?s=gh-internships-2027) |
+| **Target** | Store Executive Intern (Store Leadership Intern) – Manhattan Beach, CA (Starting Summer 2027) | Manhattan Beach, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450296?s=gh-internships-2027) |
+| **Target** | Store Executive Intern (Store Leadership Intern) – Moreno Valley / Inland Empire, CA, CA... | Moreno Valley, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450602?s=gh-internships-2027) |
+| **Target** | Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027) | San Diego, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450290?s=gh-internships-2027) |
+| **Jabil** | Mold Process Technician - Co-Op | Clinton, MA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470224?s=gh-internships-2027) |
+| **Lowe's** | Store Operations - Retail Facilities Support - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02650537?s=gh-internships-2027) |
+| **Amentum** | Intern - GN&C Graduate Spring Intern | AL-Huntsville | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174245?s=gh-internships-2027) |
+| **Amentum** | Intern - GN&C Spring Intern | AL-Huntsville | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174254?s=gh-internships-2027) |
+| **Amentum** | Spring 2027 Intern - Structural Dynamics Engineer | TX-Houston | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174115?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Global Product Support Intern- Master's (Santa Clara, CA) | Santa Clara,CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2628947?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Supplier Engineer Intern- Bachelor's (Chandler, AZ) | ChandlerAZ | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2627698?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Non-Tech Project Manager- Bachelor's/Master's (Austin, TX) | AustinTX | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2627007?s=gh-internships-2027) |
