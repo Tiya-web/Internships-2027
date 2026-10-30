@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | 2027 Software Test Engineering Intern- Roy UT | United States-Utah-Roy | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258276?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
 | **Leidos** | Software Developer Intern | Annapolis Junction, MD | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195829?s=gh-internships-2027) |
-| **Bosch Group** | IT Systems Engineering Intern (19 hours per week) | Roseville, CA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158620079?s=gh-internships-2027) |
+| **Bosch Group** | IT Systems Engineering Intern (19 hours per week) | Roseville, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158620079?s=gh-internships-2027) |
 | **Highmark Health** | Summer 2027 Quality Engineer enGen Undergraduate Intern | Camp Hill PA, 17011, | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290402?s=gh-internships-2027) |
 | **CACI** | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334160?s=gh-internships-2027) |
 | **CACI** | Systems Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Carrier Global** | Mechanical Engineering Intern - Summer | CAN | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220771?s=gh-internships-2027) |
+| **Carrier Global** | Mechanical Engineering Intern - Summer | CAN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220771?s=gh-internships-2027) |
 | **AeroVironment** | Aeromechanical Engineering Intern | Moorpark, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9217?s=gh-internships-2027) |
 | **AeroVironment** | GNC / Autonomy Engineering Intern | Simi Valley, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9222?s=gh-internships-2027) |
 | **Sierra Nevada Corporation** | Structural Engineering Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031291?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Monolithic Power Systems** | Product Marketing Engineer Intern- Server Telecom | San Jose, CA | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1965?s=gh-internships-2027) |
+| **Monolithic Power Systems** | Product Marketing Engineer Intern- Server Telecom | San Jose, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1965?s=gh-internships-2027) |
 | **Brunswick** | Engineering Test Lab Intern | Lowell, MI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051267?s=gh-internships-2027) |
 | **T. Rowe Price** | Equity Research Internship Opportunity – Summer 2027 | Baltimore, MD | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-80630?s=gh-internships-2027) |
 | **T-Mobile** | Summer 2027 Assoc Product Manager Internship | Overland Park, Kansas | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380746?s=gh-internships-2027) |
@@ -516,7 +516,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Dow Jones** | Summer 2027 Internship Program – Talent Acquisition Intern | NYC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55858?s=gh-internships-2027) |
 | **Motorola Solutions** | Finance & Accounting Intern (2027 Internship) | Chicago, IL | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68331?s=gh-internships-2027) |
 | **Fresenius Medical Care** | Supply Chain Co-op/Intern | Waltham, MA, USA | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271581?s=gh-internships-2027) |
-| **Base Power** | Video Content Intern | Austin, TX | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-78e16b51-faf1-4c80-93d5-8c3b078195ee?s=gh-internships-2027) |
+| **Base Power** | Video Content Intern | Austin, TX | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-78e16b51-faf1-4c80-93d5-8c3b078195ee?s=gh-internships-2027) |
 | **Astranis** | Procurement Intern (Winter 2027) | San Francisco | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4725805006?s=gh-internships-2027) |
 | **CACI** | Business Operations Intern - Summer 2027 | Stafford VA US | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334354?s=gh-internships-2027) |
 | **Bosch Group** | Motorsport Marketing & Operations Intern - 2027 | Farmington Hills, MI | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158575749?s=gh-internships-2027) |
@@ -620,12 +620,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | R&D Co-Op | Irving, Texas, United States of... | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098370?s=gh-internships-2027) |
-| **Uline** | French Translation Internship - Summer 2027 | Pleasant Prairie, WI | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268776?s=gh-internships-2027) |
-| **Uline** | Sales Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268774?s=gh-internships-2027) |
-| **Uline** | UX Internship - Summer 2027 | Pleasant Prairie, WI | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268775?s=gh-internships-2027) |
-| **Monolithic Power Systems** | Field Applications Engineer Intern (MPSNow) | San Jose, CA | 57m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-2079?s=gh-internships-2027) |
-| **Carrier Global** | Lab Assistant Engineering - Co-Op | CAI19: UTEC-Huntington, 111... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220677?s=gh-internships-2027) |
+| **Johnson & Johnson** | R&D Co-Op | Irving, Texas, United States of... | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098370?s=gh-internships-2027) |
+| **Uline** | French Translation Internship - Summer 2027 | Pleasant Prairie, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268776?s=gh-internships-2027) |
+| **Uline** | Sales Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268774?s=gh-internships-2027) |
+| **Uline** | UX Internship - Summer 2027 | Pleasant Prairie, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268775?s=gh-internships-2027) |
+| **Monolithic Power Systems** | Field Applications Engineer Intern (MPSNow) | San Jose, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-2079?s=gh-internships-2027) |
+| **Carrier Global** | Lab Assistant Engineering - Co-Op | CAI19: UTEC-Huntington, 111... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220677?s=gh-internships-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Early Careers | Lincolnshire, Illinois | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103662?s=gh-internships-2027) |
 | **Philips** | Intern - Advanced Manufacturing Engineer - Plymouth, MN - Summer 2027 | Plymouth, Minnesota, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594522?s=gh-internships-2027) |
 | **Cigna** | Risk & Underwriting Summer Internship Program | Franklin, TN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009228?s=gh-internships-2027) |
