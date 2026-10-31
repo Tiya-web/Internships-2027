@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships across tech, business, healthcare, and more for students, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-11572-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-11570-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Hardware%20%26%20Engineering-1343-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware & Engineering">
   <img src="https://img.shields.io/badge/Companies-563-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NVIDIA** | Systems Software Intern, Aerial PHY- Summer 2027 | US, CA, Santa Clara | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026530?s=gh-internships-2027) |
 | **RTX** | Systems Engineer Intern (Summer 2027)  - Tac Comm - Onsite | IA-CEDAR RAPIDS | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886283?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10248910?s=gh-internships-2027) |
-| **GardaWorld** | Infrastructure Engineer Intern | Wayzata, Minnesota, United States | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gardacp-6239821004?s=gh-internships-2027) |
+| **GardaWorld** | Infrastructure Engineer Intern | Wayzata, Minnesota, United States | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gardacp-6239821004?s=gh-internships-2027) |
 | **The New York Times** | Backend Engineering Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-internships-2027) |
-| **Base Power** | Manufacturing Test Engineering Intern | Austin, TX | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-0594dd17-1291-4802-90fb-14e0d775d2d6?s=gh-internships-2027) |
+| **Base Power** | Manufacturing Test Engineering Intern | Austin, TX | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-0594dd17-1291-4802-90fb-14e0d775d2d6?s=gh-internships-2027) |
 | **Bosch Group** | Quality Engineering Intern / Co-op - Spring 2027 | Florence, KY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158818709?s=gh-internships-2027) |
 | **HPE (University)** | Software Engineering Intern | Sunnyvale, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214146?s=gh-internships-2027) |
 | **Philips** | Intern - Systems Engineer – New Kensington, PA – Summer 2027 | New Kensington, Pennsylvania,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592850?s=gh-internships-2027) |
@@ -151,7 +151,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | AI Software Engineering PhD Intern | Arizona Phoenix | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0286730?s=gh-internships-2027) |
 | **Samsung Semiconductor** | Intern, Power-Thermal Simulation Software Engineer | San Jose, California, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8046795003?s=gh-internships-2027) |
 | **Tessera Labs** | Software Engineering Intern, Full Stack | San Jose | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-tessera-labs-892bb150-8c98-47f4-a8b6-93633ecb2ea7?s=gh-internships-2027) |
-| **CFS Energy** | Intern - I&C and Network Engineer - Spring or Summer 2027 | Devens, MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-cbf90690-2518-4c81-ace4-530e3b158545?s=gh-internships-2027) |
+| **CFS Energy** | Intern - I&C and Network Engineer - Spring or Summer 2027 | Devens, MA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-cbf90690-2518-4c81-ace4-530e3b158545?s=gh-internships-2027) |
 | **Trace3** | Solutions Architect Intern | Dallas, TX | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8328124?s=gh-internships-2027) |
 | **CFS Energy** | Intern - Systems Engineer - Summer 2027 | Devens, MA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-32e62a79-eff5-4a58-83fd-51a60eb57707?s=gh-internships-2027) |
 | **AeroVironment** | Test Engineering Intern - Space Technologies | Albuquerque, NM | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9253?s=gh-internships-2027) |
@@ -384,7 +384,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000157900487?s=gh-internships-2027) |
 | **AbbVie** | 2027 Drug Substance Engineering Intern (PhD) | North Chicago, IL | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016413581?s=gh-internships-2027) |
 | **Danaher** | Sustaining Engineering Intern | Irvine, California, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1320906?s=gh-internships-2027) |
-| **Skydio** | Manufacturing Intern - Summer 2027 | Hayward, California, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-8f4f62b0-a2ea-498d-b78f-6f661b724a3c?s=gh-internships-2027) |
+| **Skydio** | Manufacturing Intern - Summer 2027 | Hayward, California, United States | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-8f4f62b0-a2ea-498d-b78f-6f661b724a3c?s=gh-internships-2027) |
 | **KION Group** | Mechanical Engineer - Co-Op | Grand Rapids, MI, United States | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098269?s=gh-internships-2027) |
 | **Daimler Truck** | Mechatronics Engineering Intern – Vehicle Architecture and Controls | Gaffney, SC US | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20389?s=gh-internships-2027) |
 
@@ -399,13 +399,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **NVIDIA** | Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027 | US, CA, Santa Clara | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028027?s=gh-internships-2027) |
-| **Sierra** | Research Intern | San Francisco, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-sierra-ef896ee9-e903-4a1f-84c2-537373cb9081?s=gh-internships-2027) |
-| **Microsoft** | Research Intern - Office of Applied Research | Redmond, Washington, United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064977?s=gh-internships-2027) |
+| **Sierra** | Research Intern | San Francisco, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-sierra-ef896ee9-e903-4a1f-84c2-537373cb9081?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - Office of Applied Research | Redmond, Washington, United States | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064977?s=gh-internships-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern | Mountain View, CA, USA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8337719?s=gh-internships-2027) |
 | **The New York Times** | Editorial Design Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748518005?s=gh-internships-2027) |
 | **ByteDance** | Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD) | San Jose, California | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7702155940239264005?s=gh-internships-2027) |
 | **The New York Times** | Product Design Intern | New York, NY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748241005?s=gh-internships-2027) |
-| **Samsung Semiconductor** | Intern, SRAM Design Engineer | San Jose, California, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8081483003?s=gh-internships-2027) |
+| **Samsung Semiconductor** | Intern, SRAM Design Engineer | San Jose, California, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8081483003?s=gh-internships-2027) |
 | **HP Inc** | Product Marketing Intern | Spring, Texas, United States of... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4357?s=gh-internships-2027) |
 | **NVIDIA** | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012398?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-internships-2027) |
@@ -434,7 +434,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Design Computing Intern/Co-op - Buildings (Spring 2027) | Boston, MA, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008585?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Mechanical Design Intern - Gilbert AZ | United States-Arizona-Gilbert | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258156?s=gh-internships-2027) |
 | **SharkNinja** | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) | Needham, MA, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4720191006?s=gh-internships-2027) |
-| **Microsoft** | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064379?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064379?s=gh-internships-2027) |
 | **Draper** | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003085?s=gh-internships-2027) |
 | **Daimler Truck** | Transportation Design Intern | Portland, OR US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20434?s=gh-internships-2027) |
 | **ASML** | Internship - Design Engineer | Wilton, CT, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356190?s=gh-internships-2027) |
@@ -511,7 +511,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-internships-2027) |
 | **The New York Times** | Marketing Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748485005?s=gh-internships-2027) |
-| **The New York Times** | Communications Intern | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748228005?s=gh-internships-2027) |
+| **The New York Times** | Communications Intern | New York, NY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748228005?s=gh-internships-2027) |
 | **The New York Times** | Advertising Revenue Operations Intern | New York, NY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748489005?s=gh-internships-2027) |
 | **Bosch Group** | Logistics Materials Intern/Co-Op - Spring 2027 | Florence, KY | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158818407?s=gh-internships-2027) |
 | **Hitachi** | Intern - Supply Chain Management | Pittsburgh, Pennsylvania,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0148734?s=gh-internships-2027) |
@@ -629,17 +629,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | 2027 Global Supply Intern - Linthicum MD | United States-Maryland-Linthicum | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256169?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Intern Engineer - Product Support | United States-Florida-Melbourne | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258530?s=gh-internships-2027) |
 | **Blue Origin** | Summer 2027 Non-Destructive Test Inspector – Internship | Space Coast, FL | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75183?s=gh-internships-2027) |
-| **Hudl** | Partnerships Intern | Lincoln, NE, United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-hudl-8188917?s=gh-internships-2027) |
-| **Lowe's** | Legal Intern – First-Year Law Student (Graduate-Level) - Summer 2027 | Mooresville, NC (SSC) 1999 | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02677534?s=gh-internships-2027) |
+| **Hudl** | Partnerships Intern | Lincoln, NE, United States | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-hudl-8188917?s=gh-internships-2027) |
+| **Lowe's** | Legal Intern – First-Year Law Student (Graduate-Level) - Summer 2027 | Mooresville, NC (SSC) 1999 | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02677534?s=gh-internships-2027) |
 | **Toyota Research Institute** | Multi-scale Physics Battery Modeling Intern | Los Altos, CA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-debebb69-84c1-4466-a75f-e12244f68593?s=gh-internships-2027) |
 | **Anduril** | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5280611007?s=gh-internships-2027) |
-| **CFS Energy** | Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 | Devens, MA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-2edaad6a-3def-479e-992e-b0c333b9022f?s=gh-internships-2027) |
-| **Lila Sciences** | Co-Op, AI-Driven Equation Discovery | Cambridge, MA USA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lilasciences-4469152009?s=gh-internships-2027) |
+| **CFS Energy** | Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 | Devens, MA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-2edaad6a-3def-479e-992e-b0c333b9022f?s=gh-internships-2027) |
+| **Lila Sciences** | Co-Op, AI-Driven Equation Discovery | Cambridge, MA USA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lilasciences-4469152009?s=gh-internships-2027) |
 | **The New York Times** | Product Management Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748461005?s=gh-internships-2027) |
-| **CFS Energy** | Intern - Structural Engineer - Summer 2027 | Devens, MA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-faa295da-2f67-41af-88aa-516f118e38e3?s=gh-internships-2027) |
-| **Toyota Research Institute** | Accelerated Science Intern, Representation Learning for Molecules and Materials | Los Altos, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-9c851b9d-169d-4bb3-b164-828098e077e7?s=gh-internships-2027) |
-| **The New York Times** | Kitchen Team Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748503005?s=gh-internships-2027) |
-| **The New York Times** | Editorial Projects Intern, Wirecutter | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748499005?s=gh-internships-2027) |
+| **CFS Energy** | Intern - Structural Engineer - Summer 2027 | Devens, MA | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-faa295da-2f67-41af-88aa-516f118e38e3?s=gh-internships-2027) |
+| **Toyota Research Institute** | Accelerated Science Intern, Representation Learning for Molecules and Materials | Los Altos, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-9c851b9d-169d-4bb3-b164-828098e077e7?s=gh-internships-2027) |
+| **The New York Times** | Kitchen Team Intern, Wirecutter | New York, NY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748503005?s=gh-internships-2027) |
+| **The New York Times** | Editorial Projects Intern, Wirecutter | New York, NY | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748499005?s=gh-internships-2027) |
 | **CFS Energy** | Intern - Fusion Fuel Systems - Spring or Summer 2027 | Devens, MA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-cfsenergy-b464985c-bfc2-4efb-91db-7dd1a92f8f4b?s=gh-internships-2027) |
 | **Snowflake** | Product Management Intern (Summer 2027) | CA-Menlo Park | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-322b82f6-4b18-4f86-ae34-007f55c4bdbf?s=gh-internships-2027) |
 | **HP Inc** | Product Management Intern | Spring, Texas, United States of... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4358?s=gh-internships-2027) |
@@ -806,7 +806,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11572 current opportunities from 563 companies**
+**🎯 11570 current opportunities from 563 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
